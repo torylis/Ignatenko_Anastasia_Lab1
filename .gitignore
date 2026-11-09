@@ -1,0 +1,7 @@
+*
+!.gitignore
+!01_analysis.ipynb
+!02_report.ipynb
+!report.pdf
+!cleaning_log.csv
+!campaign_list.csv
